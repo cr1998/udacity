@@ -1,6 +1,10 @@
 # udacity
 P1:
 
-P1.pdf : report file
-google sheet.pdf: calculator file
+20180108164300_001.pdf : report file
+
+
+
+
+google sheets.pdf: calculator file
 
