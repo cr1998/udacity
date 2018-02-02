@@ -3,6 +3,10 @@ p2.jpynb: report file
 
 
 
+
+
+
+
 P1:
 
 sencond edition:
