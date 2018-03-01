@@ -1,3 +1,10 @@
+# p3:
+p3.pdf: report file
+
+
+
+
+
 # p2:
 p2.jpynb: report file
 
