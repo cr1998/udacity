@@ -1,5 +1,5 @@
-#p4
-p4.pdf:report file
+# p4:
+p4.pdf: report file
 
 # p3:
 p3.pdf: report file
